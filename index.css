@@ -1,1 +1,25 @@
 
+body {
+    display: flex;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: normal;
+    background-color: blue;
+}
+
+#header {
+    margin: auto;
+    border-radius: red 2 px solid;
+    background-color: antiquewhite;
+    
+}
+
+#main {
+    border-radius: beige 10px solid;
+}
+
+#footer {
+    border-radius: red 2 px solid;
+    background-color: antiquewhite;
+}
